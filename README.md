@@ -3,11 +3,9 @@
 ## About me
 - I'm currently studying Software Engineering @ Universidade do Minho
 
-<div id="badges">
-  <a href = "https://www.linkedin.com/in/gon%C3%A7alo-freitas-a1b414224/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+
+
+[![LinkedIn badge](https://img.shields.io/badge/-gugafreitas-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gon%C3%A7alo-freitas-a1b414224/)
 
 <h3 align="left">💻 Programming Languages used:</h3>
 
